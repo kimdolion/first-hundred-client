@@ -2,13 +2,13 @@
 A digital scrapbook/journal created to help people keep track of the first hundred activities and events they want to participate in.
 
 
-[Front-end Client](https://kimdolion.github.io/boba-tracker-client/#/)
+[Front-end Client](https://kimdolion.github.io/first-hundred-client/#/)
 
-[Front-end Repo](https://github.com/kimdolion/boba-tracker-client)
+[Front-end Repo](https://github.com/kimdolion/first-hundred-client)
 
-[Back-end Client](https://limitless-everglades-63033.herokuapp.com/)
+[Back-end Client]()
 
-[Black-end Repo](https://github.com/kimdolion/boba-tracker-backend)
+[Back-end Repo](https://github.com/kimdolion/first-hundred-backend)
 
 ## Technologies Used
 React, React Boostrap, Axios, MongoDB, Express, HTML, CSS, JS
