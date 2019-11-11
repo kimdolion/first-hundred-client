@@ -56,9 +56,9 @@ None so far?
 
 [User Stories](https://docs.google.com/document/d/1rU0EMt1qlRVzYi5IN6PDTBv9FH-f241SB1buLiKU5VY/edit?usp=sharing)
 
-[Wireframes](https://docs.google.com/document/d/1Bmr5gQ1BCXurel8O9UvznKwcHkwt-F_cnnR5uouSSXA/edit?usp=sharing)
+[Wireframes](https://docs.google.com/document/d/1fBl3dgxk_mEDYv046e3K_8C_2X62qZ7jR50VZF5Wqb0/edit?usp=sharing)
 
-[ERD](https://docs.google.com/document/d/1KAxKF9fMoZRf_MedIocuvrfn7yVN1JOpxzY0Z7Bnkl0/edit?usp=sharing)
+[ERD](https://docs.google.com/document/d/1WzmbIm2MouuBNcSU2IIVc5zPz6RUSRO5YNMfSED4eD8/edit?usp=sharing)
 
 ## Stretch Goals
 I have a number of stretch goals I'd love to implement in future iterations.
