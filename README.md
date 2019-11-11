@@ -11,7 +11,7 @@ A digital scrapbook/journal created to help people keep track of the first hundr
 [Back-end Repo](https://github.com/kimdolion/first-hundred-backend)
 
 ## Technologies Used
-React, React Boostrap, Axios, MongoDB, Express, HTML, CSS, JS
+React, React Boostrap, Axios, MongoDB, Express, HTML, CSS, JavaScript, Node.js
 
   #### list actions currently supported:
   - Create lists
