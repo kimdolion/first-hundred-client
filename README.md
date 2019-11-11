@@ -1,5 +1,5 @@
 # First Hundred
-A digital scrapbook/journal created to help people keep track of the first hundred activities and events they want to participate in.
+Goal setting app. A digital scrapbook/journal created to help people keep track of the first hundred activities and events they want to participate in.
 
 
 [Front-end Client](https://kimdolion.github.io/first-hundred-client/#/)
@@ -67,3 +67,4 @@ I have a number of stretch goals I'd love to implement in future iterations.
 - Share lists to social media/websites
 
 ## Additional Resources
+[Favicon Generator](https://favicon.io/favicon-generator/)
