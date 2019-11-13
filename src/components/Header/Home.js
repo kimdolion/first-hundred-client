@@ -28,7 +28,7 @@ const Home = ({ user }) => (
     <h1>Welcome to My First Hundred!</h1>
     <p>What are the first 100 activities that you want to accomplish?
     </p>
-    <p>You can also see what other people are working towards.
+    <p>You can also see what other people are working towards for inspiration.
     </p>
     { user ? authenticatedOptions : unauthenticatedOptions }
   </div>
